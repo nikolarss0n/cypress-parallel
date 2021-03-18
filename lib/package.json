@@ -5,7 +5,7 @@
   "main": "cli.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnicola/cypress-parallel.git"
+    "url": "git+https://github.com/nikolarss0n/cypress-parallel-misumi.git"
   },
   "keywords": [
     "cypress",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/tnicola/cypress-parallel#readme",
   "bin": {
-    "cypress-parallel": "./cli.js"
+    "cypress-parallel-misumi": "./cli.js"
   },
   "dependencies": {
     "cli-table3": "^0.6.0",
